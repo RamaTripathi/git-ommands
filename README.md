@@ -1,1 +1,3 @@
-# git-ommands
+# git-commands
+
+Repo for git commands
